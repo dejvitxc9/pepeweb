@@ -60,7 +60,6 @@
   background-image: url("https://www.filmbox.com/vectra/assets/img/bg-1366.jpg");
   overflow-y: auto;
   flex-grow: 1;
-  display: flex;
   justify-content: center;
 }
 

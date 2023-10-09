@@ -24,8 +24,8 @@ function Powitalny() {
           Tutaj znajdziesz wiele interesujących treści i funkcji takich jak:
         </p>
         <ul className="powitalny-zalety">
-          {zalety.map((zaleta) => (
-            <li>{zaleta}</li>
+          {zalety.map((zaleta, index) => (
+            <li key={index}>{zaleta}</li>
           ))}
         </ul>
       </main>
