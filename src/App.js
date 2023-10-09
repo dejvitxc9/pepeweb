@@ -7,7 +7,6 @@ import Dodawanie from "./komponenty/dodawanie/Dodawanie";
 import ListaFilmow from "./komponenty/listafilmow/ListaFilmow";
 import InfoFilm from "./komponenty/infofilm/InfoFilm";
 
-// import moviesDataBase from "./data/db.json";
 
 function App() {
   const bazaStartowa = [
